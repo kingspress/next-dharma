@@ -10,7 +10,7 @@
 1. **时效性**： 能够配合当前学修的课程，提供帮助。
 1. **来源清净**： 应用中的所有的素材都来源清净、可查。
 
-[路标链接]()
+[路标链接](https://github.com/kingspress/next-dharma/milestones)
 
 ## 提问
 
